@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f72bc4bb-9af7-4bf3-9817-a8367cf72ffc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit/test_wegzetter_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/test_wegzetter_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wegzetter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wegzetter/wegzetter_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/wegzetter_stack.py" afterDir="false" />
-    </list>
+    <list default="true" id="f72bc4bb-9af7-4bf3-9817-a8367cf72ffc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
